@@ -1,0 +1,11 @@
+GSE254222_RAW/
+*.h5
+*.tar
+info.txt
+.nextflow/
+work/
+*.log
+*.out
+*.err
+*.csv
+*.mtx
